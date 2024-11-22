@@ -19,7 +19,7 @@
     <style name="App.Theme.SplashScreen" parent="Theme.KianPardazLogin" />
     <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen" >
         <item name="windowSplashScreenBackground">@color/white</item>
-        <item name="windowSplashScreenAnimatedIcon">@drawable/kian_pardaz_logo</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/splash_inset</item>
         <item name="postSplashScreenTheme">@style/Theme.KianPardazLogin</item>
     </style>
 
